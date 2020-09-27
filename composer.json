@@ -1,0 +1,6 @@
+{
+    "name": "lenovo/cms",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
